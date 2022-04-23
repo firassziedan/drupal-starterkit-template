@@ -1,1 +1,1 @@
-# drupal-template
+# Drupal starterkit template
